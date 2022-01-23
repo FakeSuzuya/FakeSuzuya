@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FakeSuzuya
+- 👀 I’m interested in python/html/java
+- 🌱 I’m currently learning html
+- 💞️ I’m looking to collaborate on none
+- 📫 How to reach me discord : ✞ 𝗦𝘂𝗭𝘂𝗬𝗮  ✞#7957
