@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @FakeSuzuya
-- 👀 I’m interested in python/html/java
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me discord : ✞ 𝗦𝘂𝗭𝘂𝗬𝗮  ✞#7957
+⌨️— 𝗗𝗲𝘃𝗲𝗹𝗼𝗽p𝗲𝘂𝗿 𝗼𝗳 𝗷𝗮𝘃𝗮/𝗽𝘆𝘁𝗵𝗼𝗻/ html,css/js/Lua
+👍 - certified bot
+▶️ - accès dev Sandbox 2
+🛡️- Commercial WanHost
+🕵️‍♂️ - justsuzuya on discord
+📨 - DM me for project
