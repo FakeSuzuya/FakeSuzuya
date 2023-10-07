@@ -1,6 +1,6 @@
-⌨️— 𝗗𝗲𝘃𝗲𝗹𝗼𝗽p𝗲𝘂𝗿 𝗼𝗳 𝗷𝗮𝘃𝗮/𝗽𝘆𝘁𝗵𝗼𝗻/ html,css/js/Lua
-👍 - certified bot
-▶️ - accès dev Sandbox 2
-🛡️- Commercial WanHost
-🕵️‍♂️ - justsuzuya on discord
-📨 - DM me for project
+⌨️ | Développeur passionné de Java/Python/HTML/CSS/JavaScript, et Lua
+👍 | Bot discord certifié
+▶️ | Accès à la sandbox2 de développement 
+🛡️ | Collaborateur commercial chez WanHost
+🕵️‍♂️ | Contactez-moi sur Discord : justsuzuya
+📨 | Envoyez-moi un message privé pour discuter de projets
