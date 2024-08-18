@@ -15,4 +15,4 @@
 
 
 
-[![FakeSuzuya's GitHub | Stats](https://stats.quira.sh/FakeSuzuya/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FakeSuzuya)  [![FakeSuzuya's GitHub | Topics Over Time](https://stats.quira.sh/FakeSuzuya/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FakeSuzuya)
+[![FakeSuzuya's GitHub | Stats](https://stats.quira.sh/FakeSuzuya/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FakeSuzuya)  [![FakeSuzuya's GitHub | Stats](https://stats.quira.sh/FakeSuzuya/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=FakeSuzuya)
