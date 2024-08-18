@@ -1,3 +1,6 @@
+https://dcbadge.limes.pink/api/shield/906471065620987934
+
+
 ⌨️ | Développeur passionné de Java/Python/HTML/CSS/JavaScript, et Lua
 
 👍 | Bot discord certifié
@@ -8,7 +11,7 @@
 
 🕵️‍♂️ | Contactez-moi sur Discord : justsuzuya
 
-📨 | Envoyez-moi un message privé pour discuter de projets
+📨 | Envoyez-moi un message privé pour discuter de projets 
 
 
 
